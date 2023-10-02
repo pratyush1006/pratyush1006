@@ -15,7 +15,6 @@
     <li>Frameworks: TensorFlow, PyTorch, scikit-learn</li>
     <li>Data Processing: Pandas, NumPy</li>
     <li>Visualization: Matplotlib, Seaborn</li>
-    <li>Cloud Platforms: AWS, GCP</li>
     <li>Version Control: Git</li>
   </ul>
 </body>
